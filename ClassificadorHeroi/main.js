@@ -35,3 +35,8 @@ const LevelHeroi = (xp) => {
 }
 
 LevelHeroi(5000);
+
+
+const ExpHeroi =[
+    {}
+]
